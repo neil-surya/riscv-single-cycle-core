@@ -1,0 +1,21 @@
+# EDA / Simulation Artifacts
+*.vcd
+*.wlf
+*.log
+*.pb
+*.jou
+*.lxt
+*.mem
+
+# Xilinx Vivado generated files
+*.jou
+*.log
+*.str
+*.zip
+work/
+xsim.dir/
+.Xil/
+
+# OS junk
+.DS_Store
+thumbs.db
